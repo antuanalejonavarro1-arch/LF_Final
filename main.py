@@ -72,6 +72,8 @@ def main():
             if choice_line == "":
                 break
             choice = choice_line.strip()
+            if choice == "":
+                continue
             if choice == "Q":
                 break
             if choice == "T":
