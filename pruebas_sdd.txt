@@ -1,0 +1,10 @@
+3
+S->B
+B->[T]B e
+T->dT c
+e
+[c]
+[dc]
+[[dc][ddc]]
+c
+[d]
